@@ -1,31 +1,31 @@
-.bg-green{
-    background:green;
+.bg-green {
+    background: green;
 }
 
-.border-solid{
-    border:10px solid black;
+.border-solid {
+    border: 10px solid black;
 }
 
-.border-dotted{
-    border:5px dotted black;
+.border-dotted {
+    border: 5px dotted black;
 }
 
-.height{
-    height:70vh;
+.height {
+    height: 70vh;
 }
 
-.padding{
-    padding:10px 25px;
+.padding {
+    padding: 10px 25px;
 }
 
-.display-inlineblock{
-    display:inline-block;
+.display-inlineblock {
+    display: inline-block;
 }
 
-.text-center{
-    text-align:center;
+.text-center {
+    text-align: center;
 }
 
-.margin{
-    margin-top:25px;
+.margin {
+    margin-top: 25px;
 }
